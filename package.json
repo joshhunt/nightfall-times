@@ -1,7 +1,7 @@
 {
   "type": "module",
   "dependencies": {
-    "async": "^3.2.0",
+    "async": "^3.2.2",
     "axios": "^0.19.2",
     "destiny2-manifest": "^2.4.0",
     "fs-extra": "^9.0.1",
